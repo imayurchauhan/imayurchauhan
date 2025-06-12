@@ -1,4 +1,5 @@
-- 👋 Hi, I am Mayur Chauhan 
+- 👋 Hi, I am Mayur Chauhan
+- This repo tells all about my project
 
 
 <!---
